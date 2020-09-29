@@ -3,7 +3,7 @@
 To implement Cache in spring we need to configure Ehcache, in this case that cache type I implement Ehcache.
 
 # Attention
-I just sharing part of code configure LDAP, please kindly more explore for the other source what you need.
+I just sharing part of code configure Cache, please kindly more explore for the other source what you need.
 
 # Explanation
 Include your dependencies for this case we need include dependencies for Ehcache.
